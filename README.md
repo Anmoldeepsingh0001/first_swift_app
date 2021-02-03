@@ -9,6 +9,8 @@ in identity option put dislay name e.g "Myfirstapp"
 in the right side we have "option launcscreen board" or Splash screen. its your first acitivity that shows when you start building application.
 in the toolbar we have options like heirarchy,debugging,run,breakpoints etc.
 
+![Alt text](/relative/path/to/1.jfif?raw=true)
+
 Assests = resources in the android studio.
 AppDelegate.swift is a application life cycle like in android Activiry life cycle.
 you have label,buttons,scrollbar etc in the toolkit. By drag and drop on the controller scene we can use that.
