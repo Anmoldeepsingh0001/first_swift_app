@@ -1,18 +1,18 @@
 # first_swift_app
 Download latest version 12.5 from app store of xcode
-three option we will see and select second option
-select single view appoption
-important to name the Product while initaiting the progarm
+Three options we will be there and select second option
+Then select single view app option
+It's important to name the Product while initiating the progarm
 we have two language i.e swift and objective c
-after that we can also upload our work on github
-in identity option put dislay name e.g "Myfirstapp"
-in the right side we have "option launcscreen board" or Splash screen. its your first acitivity that shows when you start building application.
-in the toolbar we have options like heirarchy,debugging,run,breakpoints etc.
+After that we can also upload our work on github
+In identity option put dislay name e.g "Myfirstapp"
+In the right side we have "option launchscreen board" or Splash screen. its our first acitivity that shows when we start building application.
+In the toolbar we have options like hierarchy,debugging,run,breakpoints etc.
 
 Assests = resources in the android studio.
 AppDelegate.swift is a application life cycle like in android Activiry life cycle.
-you have label,buttons,scrollbar etc in the toolkit. By drag and drop on the controller scene we can use that.
-in the xcode we have different type of coustom text styles like bold,italic.
+we have label,buttons,scrollbar etc in the toolkit. By drag and drop on the controller screen we can use that.
+In the xcode we have different type of coustom text styles like bold,italic.
 
 Decalare variable e.g 
 
