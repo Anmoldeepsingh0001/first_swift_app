@@ -26,6 +26,8 @@ _*Code highlights*_
 lblHello.text="hello Gaspesie!"
 
 Heres is the screenshots for refernce:
+![WhatsApp Image 2021-02-03 at 10 17 10 AM](https://user-images.githubusercontent.com/74370241/106775856-855d1000-6669-11eb-8a25-5084027362f2.jpeg)
+
 
 
 
