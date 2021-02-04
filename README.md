@@ -7,6 +7,9 @@ It's important to name the Product while initiating the progarm
 we have two language i.e swift and objective c
 After that we can also upload our work on github
 In identity option put dislay name e.g "Myfirstapp"
+
+Once we have installed the application the GUI we see is as follows and processing time may be impactful based on the system.
+
 ![WhatsApp Image 2021-02-03 at 9 49 40 AM](https://user-images.githubusercontent.com/75639402/106835519-76745e80-6665-11eb-94ec-6b7b02d8ea36.jpeg)
 In the right side we have "option launchscreen board" or Splash screen. its our first acitivity that shows when we start building application.
 In the toolbar we have options like hierarchy,debugging,run,breakpoints etc.
@@ -19,6 +22,8 @@ we have label,buttons,scrollbar etc in the toolkit. By drag and drop on the cont
 In the xcode we have different type of coustom text styles like bold,italic.
 
 Decalare variable e.g 
+
+This is how the initial screen of the app looks like once we install and open it.
 
 ![WhatsApp Image 2021-02-03 at 9 48 42 AM](https://user-images.githubusercontent.com/75639402/106776165-d0e3cf80-6611-11eb-9586-a495496ff4bf.jpeg)
 
