@@ -33,6 +33,9 @@ Meanings
 
 ![WhatsApp Image 2021-02-03 at 10 16 46 AM](https://user-images.githubusercontent.com/75639402/106839283-e4bc1f80-666b-11eb-8141-f837b41c9930.jpeg)
 
+In the above example we can clearly see that we have plenty of design options. However, we have used a label, that says "Hello Cegep" and also used a button "Change the Text".
+We have these options of adding labels and buttons under the view controller. We have all the styling tools on the right side of the screen where we can change the attributes of the buttons as well as the labels.
+
 This is the output of our program. When we click on the button change the text, the message "Hello cegep" will change to "Hello Gaspe...".
 
 
@@ -42,9 +45,9 @@ This is the output of our program. When we click on the button change the text, 
 _*Code highlights*_
 @IbOutlet var lblhello :UILabel
 @IbAtion  func sayHello(sender:Any){
-lblHello.text="hello Gaspesie!"
+lblHello.text="hello Gaspe..."
 
-Heres is the screenshots for refernce:
+Here is the screenshot for reference of different sizes and models available for the emulators in iOS:
 ![WhatsApp Image 2021-02-03 at 10 17 10 AM](https://user-images.githubusercontent.com/74370241/106775856-855d1000-6669-11eb-8a25-5084027362f2.jpeg)
 
 
