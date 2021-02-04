@@ -31,6 +31,8 @@ Meanings
 @IBOutlet is a way of connecting code to storyboard layouts
 @IBAction is a way of making storyboard layouts trigger code. This method takes one parameter, called sender
 
+This is the output of our program. When we click on the button change the text, the message "Hello cegep" will change to "Hello Gaspe...".
+
 
 ![WhatsApp Image 2021-02-03 at 10 16 47 AM](https://user-images.githubusercontent.com/74370312/106837207-6c079400-6668-11eb-9c8c-5238abc7a8bd.jpeg)
 
