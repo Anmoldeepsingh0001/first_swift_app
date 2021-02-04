@@ -8,6 +8,7 @@ It's important to name the Product while initiating the progarm
 we have two language i.e swift and objective c
 After that we can also upload our work on github
 In identity option put dislay name e.g "Myfirstapp"
+![WhatsApp Image 2021-02-03 at 9 49 40 AM](https://user-images.githubusercontent.com/75639402/106835519-76745e80-6665-11eb-94ec-6b7b02d8ea36.jpeg)
 In the right side we have "option launchscreen board" or Splash screen. its our first acitivity that shows when we start building application.
 In the toolbar we have options like hierarchy,debugging,run,breakpoints etc.
 
