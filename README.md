@@ -1,6 +1,6 @@
 # first_swift_app
 Download latest version 12.5 from app store of xcode
-Three options we will be there and select second option
+Three options will be there and select second option
 
 Then select single view app option
 It's important to name the Product while initiating the progarm
