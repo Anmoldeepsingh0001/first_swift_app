@@ -23,6 +23,10 @@ Meanings
 @IBOutlet is a way of connecting code to storyboard layouts
 @IBAction is a way of making storyboard layouts trigger code. This method takes one parameter, called sender
 
+
+![WhatsApp Image 2021-02-03 at 10 16 47 AM](https://user-images.githubusercontent.com/74370312/106837207-6c079400-6668-11eb-9c8c-5238abc7a8bd.jpeg)
+
+
 _*Code highlights*_
 @IbOutlet var lblhello :UILabel
 @IbAtion  func sayHello(sender:Any){
